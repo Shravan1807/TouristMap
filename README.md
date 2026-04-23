@@ -1,2 +1,16 @@
-# TouristMap
-Flutter-based tourist map app with real-time location tracking. Uses flutter_map with Mapbox for satellite view and geolocator for GPS. Displays nearby attractions as interactive markers with distance calculation, supporting smooth zooming, panning, and responsive UI.
+# tourist_map
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
